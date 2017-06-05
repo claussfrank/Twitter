@@ -1,0 +1,25 @@
+body {
+	padding-top: 70px;
+}
+
+.navbar-default {
+	background-color: #2196F3;
+    font-size: 2vw;
+    text-align: center;
+}
+
+.navbar-red {
+	background-color: red;
+}
+
+.navbar-default .navbar-text {
+	color: white;
+}
+
+.tachado {
+	text-decoration: line-through;
+}
+
+
+
+
